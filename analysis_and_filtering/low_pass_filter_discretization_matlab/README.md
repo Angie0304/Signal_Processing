@@ -6,8 +6,9 @@ This project implements the discretization of a low-pass filter using MATLAB thr
 # Mdule Structure
 ```text
 low_pass_filter_discretization_matlab/
-├── README.md              # Project documentation and usage guide
-├── filtro_pasabajas.m     # MATLAB script for low-pass filter discretization
-├── reporte.pdf            # Project report with analysis and results
+├── README.md                  # Documentation and usage guide
+├── discretizacion_euler.m     # Filter discretization with euler
+├── discretizacion_tustin.m    # Filter discretization with tustin
+├── reporte.pdf                # Report 
 ```
 
