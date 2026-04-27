@@ -2,11 +2,14 @@
 
 This module analyzes the behavior of an RC low-pass filter configured as an analog integrator. Different input signals are applied to observe how the circuit performs signal integration under appropriate conditions.
 
-## ⚙️ Methodology
+## Methodology
 
-1. An RC low-pass filter was configured to operate as an analog integrator.  
-2. A signal generator was set to apply square, sinusoidal, and triangular inputs.  
-3. The input frequency was chosen to satisfy the integrator condition.  
-4. The output signal was measured using an oscilloscope.  
-5. The results were compared with theoretical expectations to validate the integrator behavior.
+- An RC low-pass filter was used as an analog integrator.  
+- The cutoff frequency was calculated to ensure the condition ωRC ≫ 1.  
+- Square, sinusoidal, and triangular input signals were applied using a signal generator.  
+- The output signal was measured using an oscilloscope.  
+- The results were visually compared with theoretical expectations to validate the integrator behavior.
+
+## Report
+The complete analysis, theoretical background, and results are available in: `reporte_capacitancia_filtro_rc.pdf`
 
