@@ -12,3 +12,6 @@ This module analyzes a voltage divider circuit considering component tolerances.
 
 ## Report 
 The complete analysis, theoretical background, and results are available in: `reporte_divisor_de_tension.pdf`
+
+## Status 
+Complete
