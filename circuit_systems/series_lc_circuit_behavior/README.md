@@ -1,7 +1,7 @@
 # Series LC Circuit Behavior Analysis
 This module simulates and analyzes the frequency response of a series LC circuit using MATLAB. Two models are evaluated: an ideal circuit and a non-ideal circuit that includes energy losses due to parasitic resistances. The analysis is carried out using transfer functions in the Laplace domain and Bode diagrams, enabling the comparison of magnitude and phase behavior.
 
-# Module Structure
+## Module Structure
 ```text
 series_lc_circuit_behavior/
 ├── README.md
@@ -9,8 +9,8 @@ series_lc_circuit_behavior/
 └── reporte_comportamiento_circuito_LC_serie.pdf
 ```
 
-# How it works 
-### ⚙️ How It Works
+## How it works 
+
 
 1. Define the circuit parameters (inductance, capacitance, and resistances) for both real and unitary scenarios.
 
