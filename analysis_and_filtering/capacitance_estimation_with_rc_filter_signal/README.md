@@ -1,6 +1,6 @@
 # Capacitance Estimation Using an RC Filter and Signal Analysis
 
-This project presents the estimation of capacitance in an RC low-pass filter by analyzing its output signal. The capacitance is calculated using the theoretical exponential model and experimental measurements obtained from an oscilloscope.
+This module presents the estimation of capacitance in an RC low-pass filter by analyzing its output signal. The capacitance is calculated using the theoretical exponential model and experimental measurements obtained from an oscilloscope.
 
 ## Methodology 
 
