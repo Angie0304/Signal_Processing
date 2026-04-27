@@ -1,1 +1,10 @@
+# Low-Pass Filter Discretization with Euler and Tustin Methods
 
+This project implements the discretization of a low-pass filter using MATLAB through Euler and Tustin methods. The resulting discrete-time models are analyzed to evaluate their behavior
+
+
+# Mdule Structure
+low_pass_filter_discretization_matlab/
+├── README.md              # Project documentation and usage guide
+├── filtro_pasabajas.m     # MATLAB script for low-pass filter discretization
+├── reporte.pdf            # Project report with analysis and results
