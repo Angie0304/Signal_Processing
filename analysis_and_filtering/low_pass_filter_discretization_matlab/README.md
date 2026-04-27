@@ -14,7 +14,7 @@ low_pass_filter_discretization_matlab/
 
 ## How It Works
 
-The module works as follows:
+The system works as follows:
 
 -  Define the continuous-time low-pass filter using its transfer function.
 -  Discretize the system using Euler method and Tustin method
