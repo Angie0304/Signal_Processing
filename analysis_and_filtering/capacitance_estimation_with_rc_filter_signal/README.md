@@ -4,11 +4,12 @@ This project presents the estimation of capacitance in an RC low-pass filter by 
 
 ## Methodology 
 
-- An RC low-pass filter was implemented and excited with a square input signal.  
+- An RC low-pass filter was implemented using a known resistance and capacitor.  
+- A square input signal was applied to the circuit.  
 - Input and output signals were measured using an oscilloscope.  
-- The capacitor response was analyzed during the charging process.  
-- Capacitance was estimated using the exponential model.  
-- The result was compared with the nominal value.
+- The capacitor voltage was analyzed during the charging process.  
+- Capacitance was estimated using the exponential model of the RC circuit.  
+- The estimated value was compared with the nominal capacitor value.
 
 ## Report
 The complete analysis, theoretical background, and results are available in: `reporte_capacitancia_filtro_rc.pdf`
