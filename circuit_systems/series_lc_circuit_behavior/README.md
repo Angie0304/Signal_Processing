@@ -5,9 +5,9 @@ This module simulates and analyzes the frequency response of a series LC circuit
 ## Module Structure
 ```text
 series_lc_circuit_behavior/
-├── README.md
-├── comportamiento_casos.m
-└── reporte_comportamiento_circuito_LC_serie.pdf
+├── README.md                                     # Documentation and usage guide
+├── comportamiento_casos.m                        # Simulation of ideal and non-ideal LC cases
+└── reporte_comportamiento_circuito_LC_serie.pdf  # Report
 ```
 
 ## How it works 
