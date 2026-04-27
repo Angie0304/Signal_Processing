@@ -12,7 +12,18 @@ low_pass_filter_discretization_matlab/
 └── reporte.pdf                # Report 
 ```
 
-# Usage 
+## How It Works
+
+1. Define the continuous-time low-pass filter using its transfer function.
+2. Discretize the system using:
+   - Euler method
+   - Tustin method
+3. Convert the models into difference equations for digital implementation.
+4. Simulate the system in MATLAB using a step input signal.
+5. Generate and compare the output responses of both methods.
+
+
+## Usage 
 1. Open the project in MATLAB.  
 2. Run each script separately:
    - `discretizacion_con_metodo_euler.m`
