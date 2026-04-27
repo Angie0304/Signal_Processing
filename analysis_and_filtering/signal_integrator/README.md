@@ -11,5 +11,7 @@ This module analyzes the behavior of an RC low-pass filter configured as an anal
 - The results were visually compared with theoretical expectations to validate the integrator behavior.
 
 ## Report
-The complete analysis, theoretical background, and results are available in: `reporte_capacitancia_filtro_rc.pdf`
+The complete analysis, theoretical background, and results are available in: `reporte_integrador_de_señales.pdf`
 
+# Status 
+Complete
