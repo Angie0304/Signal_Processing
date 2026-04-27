@@ -1,4 +1,5 @@
 # Series LC Circuit Behavior Analysis
+
 This module simulates and analyzes the frequency response of a series LC circuit using MATLAB. Two models are evaluated: an ideal circuit and a non-ideal circuit that includes energy losses due to parasitic resistances. The analysis is carried out using transfer functions in the Laplace domain and Bode diagrams, enabling the comparison of magnitude and phase behavior.
 
 ## Module Structure
@@ -11,11 +12,29 @@ series_lc_circuit_behavior/
 
 ## How it works 
 
+The module works as follows:
 
-1. Define the circuit parameters (inductance, capacitance, and resistances) for both real and unitary scenarios.
-2. Model the system using transfer functions in the Laplace domain for:
-   - Ideal LC circuit
-   - Non-ideal LC circuit with parasitic resistances
-3. Implement the models in MATLAB using the Control System Toolbox.
-4. Generate Bode diagrams to obtain magnitude and phase responses.
-5. Compare the responses of both models to analyze the effects of energy losses on resonance and system behavior.
+- Define the LC circuit parameters for ideal and non-ideal cases.
+-  Model both systems using transfer functions in the Laplace domain.
+- Simulate the models in MATLAB.
+-  Generate Bode diagrams to analyze magnitude and phase response.
+- Compare the results to evaluate the effect of energy losses.
+
+## Usage
+
+1. Open the project in MATLAB.  
+2. Run the script:
+   - `comportamiento_casos.m`
+3. The program will:
+   - Generate Bode diagrams for ideal and non-ideal LC models  
+   - Display magnitude and phase responses for comparison
+
+
+## Software
+
+This module requires MATLAB software.
+
+You can download it here: [MATLAB Software](https://la.mathworks.com/products/matlab.html)
+
+## Status 
+Complete
