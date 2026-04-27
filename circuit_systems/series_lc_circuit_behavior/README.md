@@ -12,7 +12,7 @@ series_lc_circuit_behavior/
 
 ## How it works 
 
-The module works as follows:
+The system works as follows:
 
 - Define the LC circuit parameters for ideal and non-ideal cases.
 -  Model both systems using transfer functions in the Laplace domain.
