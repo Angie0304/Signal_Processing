@@ -13,3 +13,6 @@ This module presents the estimation of capacitance in an RC low-pass filter by a
 
 ## Report
 The complete analysis, theoretical background, and results are available in: `reporte_capacitancia_filtro_rc.pdf`
+
+## Status 
+Complete
