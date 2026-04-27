@@ -20,3 +20,13 @@ low_pass_filter_discretization_matlab/
 3. The programas will
    - Generate discrete-time models using Euler and Tustin methods  
    - Display the corresponding response plots
+  
+## Software
+
+This module requires MATLAB software.
+
+You can download it here: [MATLAB Software](https://la.mathworks.com/products/matlab.html)
+
+## Status 
+Complete
+
