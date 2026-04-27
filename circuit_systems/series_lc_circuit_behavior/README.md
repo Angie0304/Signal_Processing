@@ -13,13 +13,9 @@ series_lc_circuit_behavior/
 
 
 1. Define the circuit parameters (inductance, capacitance, and resistances) for both real and unitary scenarios.
-
 2. Model the system using transfer functions in the Laplace domain for:
    - Ideal LC circuit
    - Non-ideal LC circuit with parasitic resistances
-
 3. Implement the models in MATLAB using the Control System Toolbox.
-
 4. Generate Bode diagrams to obtain magnitude and phase responses.
-
 5. Compare the responses of both models to analyze the effects of energy losses on resonance and system behavior.
