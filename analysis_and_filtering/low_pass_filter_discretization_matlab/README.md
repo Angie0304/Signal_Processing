@@ -15,8 +15,8 @@ low_pass_filter_discretization_matlab/
 # Usage 
 1. Open the project in MATLAB.  
 2. Run each script separately:
-   - `discretizacion_con_metodo_euler.m`
-   - `discretizacion_metodo_tustin.m`
+ - `discretizacion_con_metodo_euler.m`
+- `discretizacion_metodo_tustin.m`
 3. The programas will
 - Generate discrete-time models using Euler and Tustin methods  
 - Display the corresponding response plots
